@@ -19,7 +19,7 @@
         <acticle>
           <header>
             <hr>
-            <p>SEPTEMBER 17, 2016</p>
+            <p>OCTOBER 2, 2016</p>
             <h2>And Also The Trees – And Also The Trees</h2>
           </header>
           <p>This fantasic debut album was released in 1981.</p>

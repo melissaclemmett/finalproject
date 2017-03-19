@@ -19,7 +19,7 @@
         <acticle>
           <header>
             <hr>
-            <p>SEPTEMBER 17, 2016</p>
+            <p>OCTOBER 1, 2016</p>
             <h2>A Certain Ratio – The Graveyard and The Ballroom</h2>
           </header>
           <p>A Certain Ratio's first album is markedly darker from the funk direction they took afterwards.</p>

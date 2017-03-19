@@ -25,7 +25,7 @@
         <acticle>
           <header>
             <hr>
-            <p>SEPTEMBER 18, 2016</p>
+            <p>OCTOBER 3, 2016</p>
             <h2><a href="slowdive-catch-the-breeze-live.php">Slowdive - Catch the Breeze (live)</a></h2>
           </header>
           <p>Rachel Goswell looks and sounds so beautiful and ethereal in this live clip of Catch The Breeze from 1991.</p>
@@ -35,7 +35,7 @@
         <acticle>
           <header>
             <hr>
-            <p>SEPTEMBER 17, 2016</p>
+            <p>OCTOBER 2, 2016</p>
             <h2><a href="and-also-the-trees-and-also-the-trees.php">And Also The Trees – And Also The Trees</a></h2>
           </header>
           <p>This fantasic debut album was released in 1981.</p>
@@ -44,7 +44,7 @@
         <acticle>
           <header>
             <hr>
-            <p>SEPTEMBER 17, 2016</p>
+            <p>OCTOBER 1, 2016</p>
             <h2><a href="a-certain-ratio–the-graveyard-and-the-ballroom.php">A Certain Ratio – The Graveyard and The Ballroom</a></h2>
           </header>
           <p>A Certain Ratio's first album is markedly darker from the funk direction they took afterwards.</p>
